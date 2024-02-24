@@ -27,11 +27,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Intake</h2>
 
 <p>
-![image](https://github.com/PradoJuanPablo/ticket-lifecycle/assets/160810181/4f781688-42c1-46f9-9f1e-dc61023b5f57">
+<img width="721" alt="image" src="https://github.com/PradoJuanPablo/ticket-lifecycle/assets/160810181/4f781688-42c1-46f9-9f1e-dc61023b5f57">
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When a user is experiencing a problem that hinders their ability to work, they can submit a trouble ticket to the help desk in which they will review the problem and start working to correct the problem.
+
+They email the team about the issue, giving a summary of what they're experiencing and can even set the Help Topic which we created in the last part of the lab. 
 </p>
 <br />
 
